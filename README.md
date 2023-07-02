@@ -1,4 +1,4 @@
-# Tuezin BOT DC
+# Tuezin BOT Discord
 
 
 <p align="center">
@@ -35,7 +35,7 @@ Você precisa ter esse repositorio, é simples, rode os comandos abaixo, em caso
 ```
 ### Iniciar
 Você precisa colocar um token da sua aplicação.
-- [Token do bot](//github.com/feliprei/tuezin-discord/blob/8cd857f6ef7a4980f753c92a34d7db891c294918/config.json#L2)
+- [Token do bot](//github.com/vinny764gd/tuezin/blob/main/config.json)
 
 ### Iniciar
 Para iniciar digite o comando abaixo e espere a inicialização.
