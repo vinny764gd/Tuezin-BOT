@@ -2,6 +2,6 @@
     "token" : "tokenDoSeuBot",
     "prefix" : "t!",
     "GOOGLE_API_KEY":"googleApiKei",
-    "seuId"
+    "Owner": "seuId"
     
 }
